@@ -14,7 +14,7 @@ Most of the structural connectome datasets used are available publicly. See _S01
 Except for the Mouse1, Human3, Human4, Human5 and ZebraFinch1 datasets, which have been shared with us privately, the corresponding edgelists is also provided (i.e., the structural connectome).
 
 
-##### Hyperbolic maps
+#### Hyperbolic maps
 
 Maps are provided via text files containing the coordinates of each node in the hyperbolic disk. Each line corresponds to a single node and has the following format:
 ```
@@ -22,7 +22,7 @@ Maps are provided via text files containing the coordinates of each node in the 
 ```
 
 
-##### Edgelists
+#### Edgelists
 
 The edgelists are provided as text files in which each line corresponds to a link and follows the format:
 ```
