@@ -1,5 +1,6 @@
 ## Navigable maps of structural brain networks across species
 [![DOI](https://zenodo.org/badge/230978597.svg)](https://zenodo.org/badge/latestdoi/230978597)
+
 This repository contains the maps in hyperbolic space of the 26 structural connectomes used in the article
 
 _Navigable maps of structural brain networks across species_<br>
